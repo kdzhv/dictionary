@@ -16,19 +16,11 @@
   },
 
   {
-    "word": "essential items",
-    "partOfSpeech": "collocation",
-    "description": "вещи первой необходимости",
-    "example": "During the emergency, people stocked up on essential items like food and candles.",
-    "cardId": "3"
-  },
-
-  {
     "word": "coincidence",
     "partOfSpeech": "noun",
     "description": "something happens luckily by chance",
     "example": "You chose exactly the same wallpaper as us — what a coincidence!",
-    "cardId": "4"
+    "cardId": "3"
   },
 
   {
@@ -36,7 +28,7 @@
     "partOfSpeech": "adjective",
     "description": "спорный, противоречивый",
     "example": "A controversial issue (decision, speech, figure)",
-    "cardId": "5"
+    "cardId": "4"
   },
 
   {
@@ -44,30 +36,14 @@
     "partOfSpeech": "transitive verb",
     "description": "to expect or predict ·",
     "example": "Are you anticipating a lot of people at the party tonight?",
+    "cardId": "5"
+  },
+  
+  {
+    "word": "implore",
+    "partOfSpeech": "transitive verb",
+    "description": "to ask for something in a sincere and emotional way",
+    "example": "She implored her parents not to send her away to school",
     "cardId": "6"
-  },
-  
-    {
-    "word": "anticipate",
-    "partOfSpeech": "transitive verb",
-    "description": "to expect or predict ·",
-    "example": "Are you anticipating a lot of people at the party tonight?",
-    "cardId": "7"
-  },
-  
-  {
-    "word": "anticipate",
-    "partOfSpeech": "transitive verb",
-    "description": "to expect or predict ·",
-    "example": "Are you anticipating a lot of people at the party tonight?",
-    "cardId": "8"
-  },
-  
-  {
-    "word": "like",
-    "partOfSpeech": "transitive verb",
-    "description": "to expect or predict ·",
-    "example": "Are you anticipating a lot of people at the party tonight?",
-    "cardId": "9"
   }
 ]
