@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba5eb950.chunk.css",
+    "main.js": "/static/js/main.367c03c9.chunk.js",
+    "main.js.map": "/static/js/main.367c03c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.16440c7a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.16440c7a.js.map",
+    "static/js/2.9cccc9d4.chunk.js": "/static/js/2.9cccc9d4.chunk.js",
+    "static/js/2.9cccc9d4.chunk.js.map": "/static/js/2.9cccc9d4.chunk.js.map",
+    "static/js/3.065d2555.chunk.js": "/static/js/3.065d2555.chunk.js",
+    "static/js/3.065d2555.chunk.js.map": "/static/js/3.065d2555.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ba5eb950.chunk.css.map": "/static/css/main.ba5eb950.chunk.css.map",
+    "static/js/2.9cccc9d4.chunk.js.LICENSE.txt": "/static/js/2.9cccc9d4.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/Wremena.efa0b7c4.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16440c7a.js",
+    "static/js/2.9cccc9d4.chunk.js",
+    "static/css/main.ba5eb950.chunk.css",
+    "static/js/main.367c03c9.chunk.js"
+  ]
+}

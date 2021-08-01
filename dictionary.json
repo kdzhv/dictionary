@@ -1,0 +1,49 @@
+[
+  {
+    "word": "indiscriminate",
+    "partOfSpeech": "adjective",
+    "description": "choosing at random without careful selection",
+    "example": "Modern warfare often results in the indiscriminate killing of combatants amd innocent civilians alike.",
+    "cardId": "1"
+  },
+
+  {
+    "word": "voracious",
+    "partOfSpeech": "adjective",
+    "description": "desiring or consuming great quantities",
+    "example": "He's a voracious reader of historical novels (= he reads a lot of them eagerly and quickly)",
+    "cardId": "2"
+  },
+
+  {
+    "word": "essential items",
+    "partOfSpeech": "collocation",
+    "description": "вещи первой необходимости",
+    "example": "During the emergency, people stocked up on essential items like food and candles.",
+    "cardId": "3"
+  },
+
+  {
+    "word": "coincidence",
+    "partOfSpeech": "noun",
+    "description": "something happens luckily by chance",
+    "example": "You chose exactly the same wallpaper as us — what a coincidence!",
+    "cardId": "4"
+  },
+
+  {
+    "word": "controversial",
+    "partOfSpeech": "adjective",
+    "description": "спорный, противоречивый",
+    "example": "A controversial issue (decision, speech, figure)",
+    "cardId": "5"
+  },
+
+  {
+    "word": "anticipate",
+    "partOfSpeech": "transitive verb",
+    "description": "to expect or predict ·",
+    "example": "Are you anticipating a lot of people at the party tonight?",
+    "cardId": "6"
+  }
+]
