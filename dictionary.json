@@ -60,6 +60,14 @@
     "partOfSpeech": "transitive verb",
     "description": "to expect or predict ·",
     "example": "Are you anticipating a lot of people at the party tonight?",
-    "cardId": "7"
+    "cardId": "8"
+  },
+  
+  {
+    "word": "like",
+    "partOfSpeech": "transitive verb",
+    "description": "to expect or predict ·",
+    "example": "Are you anticipating a lot of people at the party tonight?",
+    "cardId": "9"
   }
 ]
