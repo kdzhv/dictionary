@@ -34,7 +34,7 @@
   {
     "word": "anticipate",
     "partOfSpeech": "transitive verb",
-    "description": "to expect or predict ·",
+    "description": "to expect or predict",
     "example": "Are you anticipating a lot of people at the party tonight?",
     "cardId": "5"
   },
@@ -45,5 +45,13 @@
     "description": "to ask for something in a sincere and emotional way",
     "example": "She implored her parents not to send her away to school",
     "cardId": "6"
+  },
+
+  {
+    "word": "prognosticate",
+    "partOfSpeech": "transitive verb",
+    "description": "to predict or foretell a future event",
+    "example": "He is in a good position to prognosticate on the future of commerce.",
+    "cardId": "7"
   }
 ]
